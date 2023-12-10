@@ -11,13 +11,15 @@ Welcome to my ePortfolio. My name is Isabel Rodarte; I am pursuing a bachelor's 
 
 Code review will consist of four significant areas of code: consistency in formatting/ overall design, quality documentation, and consistency of coding standards and project requirements. Checking within the four major areas adds quality assurance to the developed software. Code review is an essential practice for computer science professionals because it allows computer scientists to build reliable code free of errors, bugs, and issues that could hinder a project. 
 
-## Artifact One: Airgead Banking App
-### Software Engineering and Desgin
+## Artifact One: Software Engineering and Desgin
+### Airgead Banking App
 
 The Airgead Banking C++ application is a financial calculator that asses financial investments with and without deposits. This will demonstrate skills used throughout computer science and logical and critical thinking.
 
-## Artifact Two: Airgead Banking App
-### Algorithms and Data Structures
+## Artifact Two: Algorithms and Data Structures
+### Airgead Banking App
+
+The Airgead Banking App uses loops to calculate mathematical input and outputs in Java. It will demonstrate my ability to enhance an algorithm to improve efficiency by applying the calculation formula Math.pow and showcasing evaluating computing solutions and solving a mathematical problem using algorithmic principles.
 
 ## Artifact Three: Appointment Services
 ### Databases
