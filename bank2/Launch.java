@@ -86,7 +86,7 @@ public class Launch implements ActionListener {
 		}
 
 		@Override
-		//function of the calculation button
+		//calculation button
 		public void actionPerformed(ActionEvent e) {
 			if(e.getSource()==button) {
 				NewWindow mywindow = new NewWindow();
