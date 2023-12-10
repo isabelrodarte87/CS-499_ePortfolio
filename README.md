@@ -1,3 +1,7 @@
+<center>
+  <img scr="profile.jpg" height=200 width=200>
+</center>
+
 # ePortfolio 
 
 # <center>CS-499 Computer Science Capstone 2023</center>
