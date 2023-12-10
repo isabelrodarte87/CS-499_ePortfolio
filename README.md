@@ -7,6 +7,10 @@
 
 Welcome to my ePortfolio. My name is Isabel Rodarte; I am pursuing a bachelor's degree in computer science from Southern New Hampshire University. The main objective of creating my ePortfolio is to showcase my abilities, strengths, and knowledge in computer science. The ePortfolio will showcase three artifacts that have been enhanced per category: software design/engineering, algorithms and data structures, and databases. The enhancement per category will take the original artifact and improve it based on course outcomes.
 
+## Code Review
+
+Code review will consist of four significant areas of code: consistency in formatting/ overall design, quality documentation, and consistency of coding standards and project requirements. Checking within the four major areas adds quality assurance to the developed software. Code review is an essential practice for computer science professionals because it allows computer scientists to build reliable code free of errors, bugs, and issues that could hinder a project. 
+
 ## Professional Self-Assesment
 
 During my computer science journey, I gained valuable skills and learned more in-depth computer science concepts. Some of which are essential and helpful in setting professional goals. 
