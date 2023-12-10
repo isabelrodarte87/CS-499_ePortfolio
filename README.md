@@ -1,20 +1,22 @@
-# ePortfolio 
+# <pre align="center">Enhancement Two: Algorithms and Data Structures</pre>
 
-# <center>CS-499 Computer Science Capstone 2023</center>
+## <pre align="center">Airgead Bank App</pre>
 
-## Welcome
+Location: **AirgeadBankApp** Folder
 
-Welcome to my ePortfolio. My name is Isabel Rodarte; I am pursuing a bachelor's degree in computer science from Southern New Hampshire University. The main objective of creating my ePortfolio is to showcase my abilities, strengths, and knowledge in computer science. The ePortfolio will showcase three artifacts that have been enhanced per category: software design/engineering, algorithms and data structures, and databases. The enhancement per category will take the original artifact and improve it based on course outcomes.
+### Artifact Information
 
-## Professional Self-Assesment
+The artifact is a bank application created for Airgead Bank to help clients perform financial calculations. The artifact was generated initially during the CS-210 Programming Languages course and written in C++. As shown below, essential functions allow users to input values, perform financial calculations, and output financial results within the Visual Studio console command prompt window.
 
-During my computer science journey, I gained valuable skills and learned more in-depth computer science concepts. Some of which are essential and helpful in setting professional goals. 
+### The Enhancement
 
-Course CS-260, Data Structures and Algorithms introduces the importance of data structures and algorithms as they are essential for a program to function. I gained knowledge of the importance of data structures, and without a data structure, it would be challenging to write code, maintain the code, and debug. Data structures reduce redundancy in coding, which is a crucial tool within software development. The value of this course ensures my ability to sort, manage, and store information along with efficient techniques to accomplish any operation on data.
+The previous enhancement tackled the design by incorporating a graphical user interface (GUI). For the second enhancement, the focus was on improving an algorithm. For this artifact, the compound interest calculations were made using a loop. Enhancing the algorithm and making it more efficient using a mathematical formula by applying Math.pow was essential. The Math.pow provides an efficient way of multiplying numbers in large quantities; the financial calculator takes user input of large numbers and outputs the end-of-year balances. Additional edits were completed to improve the overall artifact. The code naming of classes was revised to provide clarity. For example, calculationsConfigurations.java was renamed to FinancialCalculator.java, and function names were updated to represent their purpose better. Comments were corrected and modified to provide logic and meaning behind the code, for example, methods, constructors, and variables. Documentation includes headers to describe the artifact's purpose, enhancement completed and author information. Overall, making the necessary changes to the artifact provides better computer science practices that are concise and clear. 
 
-Throughout my coursework in CS-310 Collaborating and Team Projects, I was introduced to git. Before this course, I was unfamiliar with git and its purpose. However, I have learned that git is essential in a collaborating team environment. It allows a git repository to be uploaded openly, which peers can collaborate on. Also, version control is beneficial as it tracks modifications made to the code among peers and reverses mistakes by comparing earlier code versions.
+### Meeting Course Objective
 
-Other courses throughout my computer science program also help shape values in professional goals. I discovered the value of communication in every concept and category of computer science. For example, during CS-320 Software Test Automation & QA, the value of communicating with stakeholders in the SDLC process is essential. It builds trust, rapport, and collaboration with stakeholders. Communicating with stakeholders encourages valuable feedback, requirements, resources, and support. CS-340 Client Server Development, introduce me to MongoDB. During this course, I was required to connect MongoDB, demonstrating comprehension of programming, including adding safety features for enhancing security with the user by adding a username and password along with user permissions.
+The objectives planned for this enhancement still needed to be fully met. However, the design exceeded the client's requirements. The original plan was to incorporate a data mining tool. After working on the artifact, I found that improving a mathematical formula for computing interest was better than a loop-based calculation. It met the enhancement objective; however, the original plan was to add a data mining tool, that I decided to rethink.
 
-Nevertheless, my individual growth was displayed in every computer science course. I will continuously apply the knowledge gained and outlined in my ePortfolio and showcase my overall skills, techniques, and understanding of computer science.
+### Reflection
+
+After researching how to document a Java project properly, I completed the tasks provided in the feedback. I learned that as a developer, it is essential to research as it can provide clarity and improve the coding quality. Completing this artifact for a second time, I learned it is vital to take my time and use a step-by-step method when working through my code. It is easy to make mistakes as we are human. For example, when conducting a test run, the “calculation” button was not responding when I clicked on it. Reviewing the code that adds the button, I realized it was missing the “addActionListener,” as it is essential to tell what actions are completed when the calculation button is clicked.
 
