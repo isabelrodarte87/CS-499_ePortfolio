@@ -18,7 +18,7 @@ The Airgead Banking C++ application is a financial calculator that asses financi
 
 <center>
   <a href="https://isabelrodarte87.github.io/CS-499_ePortfolio/Airgead-Bank-App#enchancement-one-software-design-and-engineering" title="Click To View">
-  <img src="
+  <img src="finalbankapp.png" height=250>
     </a>
 </center>
     
