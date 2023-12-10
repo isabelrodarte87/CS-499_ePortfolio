@@ -18,10 +18,3 @@ Other courses throughout my computer science program also help shape values in p
 
 Nevertheless, my individual growth was displayed in every computer science course. I will continuously apply the knowledge gained and outlined in my ePortfolio and showcase my overall skills, techniques, and understanding of computer science.
 
-## Code Review
-
-## Enhancement One: Software Design/Engineering
-
-## Enhancement Two: Algorithms and Data Structures
-
-## Enhancement Three: Databases
