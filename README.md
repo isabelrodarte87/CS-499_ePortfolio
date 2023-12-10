@@ -1,6 +1,3 @@
-<center>
-  <img scr="profile2.jpg" height=200 width=200>
-</center>
 
 # ePortfolio 
 
