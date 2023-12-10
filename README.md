@@ -21,8 +21,10 @@ The Airgead Banking C++ application is a financial calculator that asses financi
 
 The Airgead Banking App uses loops to calculate mathematical input and outputs in Java. It will demonstrate my ability to enhance an algorithm to improve efficiency by applying the calculation formula Math.pow and showcasing evaluating computing solutions and solving a mathematical problem using algorithmic principles.
 
-## Artifact Three: Appointment Services
-### Databases
+## Artifact Three: Databases
+### Appointment Services
+
+The Appointment Service holds clients' information such as appointment date, description, and ID. It will display my knowledge of databases, implementation within a project, and the use of well-founded tools to incorporate the database.
 
 ## Professional Self-Assesment
 
