@@ -2,7 +2,7 @@
 
 ## <pre align="center">Airgead Bank App</pre>
 
-Location: **Airgead Bank App** Folder
+Location: **Bank2** Folder
 
 ### Artifact Information
 
