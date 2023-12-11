@@ -30,6 +30,8 @@ The Airgead Banking App uses loops to calculate mathematical input and outputs i
 
 The Appointment Service holds clients' information such as appointment date, description, and ID. It will display my knowledge of databases, implementation within a project, and the use of well-founded tools to incorporate the database.
 
+##### Click to review project [Appointment Services](https://github.com/isabelrodarte87/CS-499_ePortfolio/tree/AppointmentServices?tab=readme-ov-file#enhancement-three-databases)
+
 ## Professional Self-Assesment
 
 During my computer science journey, I gained valuable skills and learned more in-depth computer science concepts. Some of which are essential and helpful in setting professional goals. 
