@@ -16,7 +16,7 @@ Code review will consist of four significant areas of code: consistency in forma
 
 The Airgead Banking C++ application is a financial calculator that asses financial investments with and without deposits. This will demonstrate skills used throughout computer science and logical and critical thinking.
 
-##### Click to review project [Airgead Banking App](https://github.com/isabelrodarte87/CS-499_ePortfolio.git/Airgead-Bank-App)
+##### Click to review project [Airgead Banking App](https://github.com/isabelrodarte87/CS-499_ePortfolio.git)
 
 ### Artifact Two: Algorithms and Data Structures
 #### Airgead Banking App
