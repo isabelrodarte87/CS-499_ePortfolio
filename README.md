@@ -11,6 +11,11 @@ Welcome to my ePortfolio. My name is Isabel Rodarte; I am pursuing a bachelor's 
 
 Code review will consist of four significant areas of code: consistency in formatting/ overall design, quality documentation, and consistency of coding standards and project requirements. Checking within the four major areas adds quality assurance to the developed software. Code review is an essential practice for computer science professionals because it allows computer scientists to build reliable code free of errors, bugs, and issues that could hinder a project. 
 
+
+#### Click for code review [Airgead Banking App Part One](https://youtu.be/2HvVSMEsoPc)
+#### Click for code review [Airgead Banking App Part Two](https://youtu.be/YlSjaP9tfO0)
+#### Click for code review [Appointment Service](https://youtu.be/aUXfJsRixOU)
+
 ### Artifact One: Software Engineering and Desgin
 #### Airgead Banking App
 
