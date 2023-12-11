@@ -10,6 +10,8 @@ The appointment service application was developed in CS-320 Software Test Automa
 
 ### The Enhancement
 
+The artifact performs simple searches to find client information. This artifact was selected to take simple searches and create a database that can store client information in a central location. For the enhancement, I used MySQL to develop a database for appointment services that allows users to create, read, update, and delete client information. To connect to the host database, I had to ensure that line of code in Java, I used the URL. The enhancement made for this artifact deploys the computer science outcome of well-founded techniques, skills, and tools. The use of Java for the enhancement demonstrates language proficiency. However, the critical skill learned is deploying database design principles.
+
 ### Meeting Course Objective 
 
 The course objective I plan to meet includes innovative techniques and skills I completed during this enhancement. I had to be familiar with database modeling, SQL, and design proficiency to construct the database. These techniques and skills are essential in computer science and programming. I want to add GUI features to improve user experience by providing access in a user-friendly window. The GUI feature would allow for this application to be marketable for companies. Another area I would like to enhance is securing the database. Adding security to the database will keep the data safe and secure from possible attacks.
