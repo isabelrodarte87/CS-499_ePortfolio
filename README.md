@@ -25,8 +25,8 @@ The Airgead Banking App uses loops to calculate mathematical input and outputs i
 
 ##### Click to review project [Airgead Bank App](https://github.com/isabelrodarte87/CS-499_ePortfolio/tree/AirgeadBankAlgorithm?tab=readme-ov-file#enhancement-two-algorithms-and-data-structures)
 
-## Artifact Three: Databases
-### Appointment Services
+### Artifact Three: Databases
+#### Appointment Services
 
 The Appointment Service holds clients' information such as appointment date, description, and ID. It will display my knowledge of databases, implementation within a project, and the use of well-founded tools to incorporate the database.
 
