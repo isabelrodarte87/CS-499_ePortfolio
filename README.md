@@ -16,4 +16,6 @@ The course objective I plan to meet includes innovative techniques and skills I 
 
 ### Reflection
 
+While working with databases, I re-learned how to work with MySQL. Before this course, I used MongoDB to create and connect a database to an application. However, I wanted to use MySQL to increase my knowledge. For example, I learned how to connect the database and application by coding it in my code. One of the challenges I faced this time around was time management. While researching how to connect to the MySQL database, I needed more time to write code and meet the deadline. The goal for moving forward is to find ways to stay up-to-date on techniques, skills, and database management systems.
+
 
