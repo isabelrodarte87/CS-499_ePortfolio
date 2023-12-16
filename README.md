@@ -61,3 +61,22 @@ Other courses throughout my computer science program also help shape values in p
 
 Nevertheless, my individual growth was displayed in every computer science course. I will continuously apply the knowledge gained and outlined in my ePortfolio and showcase my overall skills, techniques, and understanding of computer science.
 
+## Course Outcomes
+
+#### Course Outcome 1
+
+I Employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in computer science by completing the following code review. In computer science, code review is essential to the overall project quality. It provides feedback on areas of improvement within the code, leading to proper decision-making. The Airgead Banking App enhancement was designed for a collaborative environment due to the GUI that makes it user-friendly and accessible to everyone, even those who may not have a software development background.
+
+#### Course Outcome 2
+I Designed, Developed, and Delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by completing the following enhancement in artifact Airgead Banking App. The Airgead Banking App was developed for clients' usage from a business perspective. I encouraged the front-end design using GUI and applied oral, written, and visual communication based on business professionalism. I was providing an exceptional experience for all users and the Airgead Banking Business.
+
+#### Course Outcome 3
+I Designed and Evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices by completing the following enhancement by converting the mathematical loop into a mathematical formula by applying the Math.pow. This provides more efficiency in multiplying large numbers, which calculates compound interest in the Airgead Banking App. The design was updated to a user-friendly window that displays appropriate labels, text field boxes, and buttons by managing the design choices' trade-offs.
+
+#### Course Outcome 4
+I Demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals by completing the following enhancements of language migration from C++ to Java and implementing GUI in Airgead Banking App and developing a database for Appointment Service. The language migration demonstrated skills and techniques like logical thinking, critical thinking, and code readability. The language migration to Java creates a versatile application for different platforms. Improvements to the design by using GUI to create a user-friendly window apply critical thinking, and with the labels, text boxes, and buttons, expected results were output when the application was running. Appointment Service database was developed in MySQL Workbench, a computer science tool used to create a database with tables containing data pulled by the Java application for creating, reading, updating, and deleting an appointment demonstrating my ability in the use of well-founded tools and techniques.
+
+#### Course Outcome 5
+I Developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by completing the following enhancements: developing a database in MySQL Workbench for Appointment Services. MySQL Workbench is on a local system, which reduces the possible threats of cloud-based databases on the internet that can be exposed to a breach, ensuring a security mindset and exposure to potential vulnerabilities. A username and password are created for the local host to grant access when the Appointment Service connects to the MySQL database. If the user and password are incorrect, it produces an error message, not giving access and securing the database.
+
+
